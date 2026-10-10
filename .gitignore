@@ -1,0 +1,16 @@
+# Python / Jupyter
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Licensed Bloomberg data and large intermediates (not redistributable) - see data/README.md
+data/*
+!data/README.md
+
+# Unpublished manuscript sources
+paper/

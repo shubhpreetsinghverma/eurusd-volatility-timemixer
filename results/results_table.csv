@@ -1,0 +1,8 @@
+,validation,validation,validation,validation,test,test,test,test
+,RMSE,MAE,bias,QLIKE,RMSE,MAE,bias,QLIKE
+model,,,,,,,,
+GARCH,2.344,2.211,1.685,0.22,1.919,1.751,0.946,0.192
+HAR+IV (lin),1.77,1.549,1.031,0.152,1.645,1.408,0.517,0.148
+HAR+IV (log),1.679,1.461,0.879,0.14,1.634,1.351,0.363,0.153
+TimeMixer ens10,1.589,1.417,0.801,0.123,1.819,1.471,0.117,0.207
+Persistence,,,,,2.169,1.58,0.09,0.425
